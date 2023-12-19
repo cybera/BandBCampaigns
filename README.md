@@ -14,6 +14,10 @@ What would happen if someone's credentials to Google Workspace got popped?
 
 What if our cloud was filled by Cryptominers?
 
+### [002 When Dependencies Attack](https://github.com/cybera/BandBCampaigns/blob/main/campaigns/002-When-Dependencies-Attack.md)
+
+Replaying Dec. 10th and 11th, 2021 - when the major Log4J vulnerability was announced.
+
 ## Other Resources
 
 * [AntiSyphon's Upstream
