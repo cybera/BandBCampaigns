@@ -18,6 +18,18 @@ What if our cloud was filled by Cryptominers?
 
 Replaying Dec. 10th and 11th, 2021 - when the major Log4J vulnerability was announced.
 
+### [003 Bad Practices Come Home](https://github.com/cybera/BandBCampaigns/blob/main/campaigns/003-Bad-Practices-Come-Home.md)
+
+How do we respond when a user has been using an old compromised password... everywhere?
+
+### [004 The Knowledge of Good and Evil](https://github.com/cybera/BandBCampaigns/blob/main/campaigns/004-The-Knowledge-Of-Good-And-Evil.md)
+
+Supply chain attack on Confluence gains internal persistence for profit
+
+### [005 rSOC Breaches and You](https://github.com/cybera/BandBCampaigns/blob/main/campaigns/005-rSOC-Breaches-and-You.md)
+
+rSOC discovers a breach at a member...but is it just at the member?
+
 ## Other Resources
 
 * [AntiSyphon's Upstream
